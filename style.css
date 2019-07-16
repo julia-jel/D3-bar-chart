@@ -1,0 +1,31 @@
+/* CSS files add styling rules to your content */
+
+#title {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#graphic-area {
+  display: flex;
+  justify-content: center;
+}
+
+svg {
+  background-color: LemonChiffon;
+  font-family: sans-serif;
+  border-radius: 4px;
+}
+
+.bar:hover {
+  fill: GoldenRod;
+}
+
+#tooltip {
+  background-color: white;
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 5px;
+  border-radius: 4px;
+  transition: 
+}
